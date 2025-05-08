@@ -1,4 +1,4 @@
-# GHOUL:RE Script - Auto Collect, Fight & More (2025)
+# 🎯 GHOUL:RE Script - Auto Collect, Fight & More (2025)
 
 ---
 
@@ -106,6 +106,3 @@ Welcome to the **GHOUL://RE Script**, a powerful tool designed to help you autom
 
 This script is **for educational and entertainment purposes only**. Use at your own risk. Roblox’s anti-cheat may detect automation, so use cautiously and ethically.
 
----
-
-Если нужно добавить или изменить функции — скажи!
